@@ -1,0 +1,495 @@
+# FoodHub Business Platform - Complete AI Context Database
+
+## Company Overview
+FoodHub is a leading food technology platform that connects food businesses with customers through smart technology solutions. Founded in 2008 by Ardian Mula as Touch2Success, the company has grown from a small-scale operation to a global powerhouse serving over 30,000 restaurant partners worldwide.
+
+### Mission Statement
+"Connecting food businesses with customers through smart tech. We help restaurants and takeaways grow by offering a powerful ecosystem of tech solutions. From online ordering to customer engagement, our tools make it easy to reach customers, streamline operations, and boost profits."
+
+### Key Statistics (2024)
+- 63+ Million orders processed
+- 30,000+ restaurant partners globally
+- 1,200+ staff worldwide
+- Operations across UK, India, Egypt, Australia, New Zealand, America, South Africa, Canada, and Mexico
+
+### Trusted Partners
+FoodHub is trusted by major brands including:
+- Papa Johns
+- Subway
+- Craving Kebabs
+- Pepe's Piri Piri
+- Kebab Hut
+- TGI Friday
+- Little Dessert Shop
+
+## Core Products & Services
+
+### 1. Point of Sale (POS) Systems
+**Fusion EPOS System**
+- Complete restaurant management solution
+- Touchscreen terminals with 15" display panels
+- Offline capability - works without internet connection
+- Real-time order management and kitchen display integration
+- Multi-location support for restaurant chains
+- Hardware: EBN 755 and EBN 852 touchscreen terminals
+
+**Android POS System**
+- Compact, cost-effective Android POS system
+- Portable device that functions on Android
+- Pre-installed takeaway management app
+- Take online orders easily on portable device
+- Manage drivers and staff accounts
+- Send promotional offers to customers
+- Reliable and secure payments with integrated gateway
+- Pay by Link feature for easier payments
+- Portable payment system with multiple payment options
+- Complete POS integration with modern, responsive website
+- Search engine optimization capabilities
+- Real-time delivery tracking
+- Customer database and business reports
+- Time-based sales reports and tax summaries
+- Sales analysis and tracking
+- Dedicated support team available 24/7
+- Live chat support for quick assistance
+- AI-driven delivery update bot feature
+- Update order status and send expected delivery time
+- Available models: Foodhub APOS (M2 Pro) and Foodhub APOS (A920)
+
+### 2. Online Ordering Platform
+**FoodHub Marketplace**
+- Web, iOS, and Android applications
+- Commission-based marketplace model
+- Fair pricing for both restaurants and customers
+- Global availability across multiple countries
+- Real-time order tracking and delivery management
+
+**Custom Restaurant Apps**
+- White-label mobile applications
+- Branded ordering experience
+- Direct integration with POS systems
+- Customer loyalty and engagement features
+
+### 3. Order Management & Kitchen Operations
+**Kitchen Display System (KDS)**
+- Streamline kitchen communication and reduce human errors
+- Deliver food on time with unified system for flawless order management
+- Orders direct to kitchen - send orders to respective chefs
+- Order monitoring screen with recall order facility
+- Track orders with cooking delay alerts and order status
+- Staff analytics and performance tracking
+- Streamline kitchen operations to cut waste
+- Reduce paper and improve efficiency
+- Clear, digital order details eliminate lost or misread paper tickets
+- Real-time updates ensure staff always have latest information
+- Reduce mistakes and improve efficiency
+
+**Self-Service Kiosks**
+- Unlock smart upselling and order efficiency
+- Boost restaurant order size and sales
+- Let customers browse menus, place orders, and pay with ease
+- Fully integrated restaurant kiosk up and running quickly
+- Stylish and compact designs that fit seamlessly into any restaurant
+- Available as wall-mounted or standalone
+- Real-time updates to keep customers informed
+- Increase order size by letting customers explore menu and upsell
+- Reduce costs by automating ordering process efficiently
+- POS integration - send orders directly to kitchen and POS system
+- Multiple payment options: credit/debit cards, contactless, Apple Pay, Google Pay
+- **Foodhub Kiosk Pro**: 24" order touch screen, accepts swipe and debit PIN payments, built-in thermal dot receipt printer, Foodhub Security end-to-end encryption, Wi-Fi/Ethernet/LTE connectivity, optional wall mount accessories
+- **Foodhub Kiosk Lite**: 32" order touch screen, perfect for smaller spaces, same features as Pro
+- Easy installation with quick menu-sync and seamless integration
+- Tap to pay functionality
+- Suitable for Stadium, Dining/Takeaway, Live Events, Hotel, Cinema Theatre businesses
+
+**Digital Menu Boards**
+- Dynamic menu displays
+- Real-time pricing updates
+- Promotional content management
+- Multi-screen support
+
+### 4. Delivery Management
+**Drive2Success Delivery App**
+- Instant delivery assignment
+- Driver tracking and management
+- Route optimization
+- Real-time delivery updates
+- Integration with restaurant POS systems
+- AI-driven delivery update bot feature
+- Update order status and send expected delivery time
+- Snooze update request functionality
+- Provide customers with real-time order status
+- Earn customer trust through service efficiency
+
+### 5. Payment Solutions
+**Cloud Payments Integration**
+- Multiple payment provider support
+- Secure payment processing
+- PCI compliance
+- Real-time transaction reporting
+- Integration with Datman and Stripe
+- Seamless transaction processing
+
+**Pay By Link**
+- Flexible payment options
+- Card and cash payment support
+- Mobile payment integration
+- Automated payment reminders
+- Makes payment process easier
+- Quick, smooth, and safe payments
+
+**Payment Terminal (PDQ)**
+- Physical payment processing
+- Contactless payment support
+- Receipt printing
+- Transaction reporting
+- Portable payment system
+- Multiple payment options support
+
+### 6. Customer Engagement & Marketing
+**QR Code Ordering System**
+- Contactless ordering experience
+- Table-side ordering
+- Menu browsing and customization
+- Direct integration with kitchen systems
+- Order and pay functionality
+- Click and collect capabilities
+
+**Table Ordering System**
+- In-restaurant ordering solution
+- Table management capabilities
+- Direct kitchen integration
+- Real-time order tracking
+
+**Marketing Tools**
+- Customer data analytics
+- Promotional campaign management
+- Email marketing integration
+- Social media integration
+- Customer database management
+- Business reports and analytics
+
+**Customer Support**
+- 24/7 technical support
+- Live chat support system
+- Multi-language support
+- Dedicated account management
+- Installation assistance
+- Training and onboarding support
+- Technical troubleshooting
+- Maintenance and updates
+
+### 7. Integration & API Services
+**FoodHub Integration API**
+- RESTful API for third-party integrations
+- Real-time data synchronization
+- Custom integration development
+- Webhook support for real-time updates
+
+**Online Ordering Partners Integration**
+- Seamless integration with major delivery platforms
+- Real-time order synchronization
+- Unified order management
+- Cross-platform compatibility
+
+**POS Systems Integration**
+- Integration with existing POS systems
+- Real-time data synchronization
+- Unified reporting and analytics
+- Seamless workflow management
+
+**Delivery Service Providers Integration**
+- Integration with major delivery services
+- Real-time tracking and updates
+- Unified delivery management
+- Performance analytics
+
+**Kiosk Integrations**
+- Self-service kiosk integration
+- Order synchronization with POS
+- Real-time menu updates
+- Payment processing integration
+
+**Google Integration**
+- Google My Business integration
+- Table reservation system
+- Google Menu integration
+- Takeaway details on Google pages
+
+**VoIP Integration**
+- Phone call management through EPOS
+- Call recording and analytics
+- Customer service optimization
+- Multi-line support
+
+## Technology Stack & Features
+
+### Hardware Solutions
+- Touchscreen POS terminals (15" displays)
+- Kitchen display systems
+- Order kiosks
+- Payment terminals
+- Mobile devices for delivery management
+
+### Software Capabilities
+- Cloud-based management
+- Offline operation support
+- Real-time synchronization
+- Multi-location management
+- Scalable architecture
+
+### Security & Compliance
+- PCI DSS compliance
+- Data encryption
+- Secure payment processing
+- GDPR compliance
+- Regular security audits
+
+## Industries We Serve
+
+### Quick Service Restaurants (QSR)
+- Fast-food chains and quick service establishments
+- High-volume order processing
+- Streamlined operations and efficiency
+- Self-service kiosk solutions
+- Mobile ordering integration
+
+### Stadiums & Live Events
+- High-traffic venue solutions
+- Quick order processing
+- Mobile POS systems
+- Real-time inventory management
+- Event-specific menu configurations
+
+### Hotels & Hospitality
+- Room service ordering systems
+- Restaurant management within hotels
+- Guest experience enhancement
+- Multi-location management
+- Integration with hotel management systems
+
+### Cinema Theatres
+- Concession stand management
+- Quick snack and drink purchases
+- Self-service kiosk solutions
+- Real-time inventory tracking
+- Customer flow optimization
+
+### Dining & Takeaway
+- Traditional restaurant operations
+- Takeaway and delivery management
+- Table service and self-service options
+- Kitchen display systems
+- Order management optimization
+
+## Global Operations
+
+### Headquarters
+- **UK (HQ)**: 55 Duke Street, Stoke-on-Trent, ST4 3NR, United Kingdom
+- **Call Center**: Stoke-on-Trent, UK
+
+### Regional Offices
+- **India**: Global Infocity, Chennai (22,000 sq ft office space)
+- **Madurai, India**: Newest office location
+- **Egypt**: Menu management and support
+- **Australia**: Full operations
+- **New Zealand**: Complete service offering
+- **USA**: Full marketplace and business solutions
+- **South Africa**: Regional operations
+- **Canada**: Business services
+- **Mexico**: Market expansion
+
+## Industry Partnerships & Sponsorships
+
+### Sports Partnerships
+- **Port Vale FC**: Match sponsor (2025)
+- **Stoke FC**: Stadium partnership with match-day sales
+- **Walsall FC**: Service efficiency and revenue growth
+
+### Technology Partnerships
+- **Snappy Shopper**: Grocery delivery partnership (2025)
+- **Google**: End-to-end integration for takeaways
+- **Multiple Payment Providers**: Cloud payment integration
+
+## Company Timeline & Milestones
+
+### 2025
+- Port Vale FC sponsorship
+- Grocery delivery with Snappy Shopper
+- Stoke FC and Walsall FC partnerships
+
+### 2024
+- TV commercial highlighting price advantages
+- Continued global expansion
+
+### 2023
+- Google integration for takeaways
+- In-store EPOS offline version
+- Cloud payments integration
+- VoIP integration
+- FoodHub Kiosk launch
+- Madurai office opening
+- 1,033+ employees globally
+
+### 2022
+- 30,000+ business clients worldwide
+- 63+ million orders processed
+- UK Call Centre in Stoke-on-Trent
+
+### 2021
+- US market launch
+- 15,000+ client milestone
+- One million active customers
+
+### 2020
+- Global platform release
+- Touch2Success acquires BigFoodie UK (+2,500 clients)
+- New Zealand operations
+
+### 2019
+- Australia and Ireland launches
+- Visionsoft Limited acquisition
+
+### 2018
+- 450+ team members
+- 22,000 sq ft office expansion
+
+### 2017
+- First FoodHub platform release
+- Native mobile apps (iOS/Android)
+- Fusion 8 upgrade
+
+### 2016
+- My Business Hub mobile app
+- SEO team deployment
+- Regional area managers
+
+### 2015
+- Drive2Success delivery app
+- Hardware upgrades
+- 24/7 operations
+
+### 2014
+- Live chat support
+- Talk2Success phone support
+
+### 2013
+- Dedicated menu team
+- India office expansion
+
+### 2012
+- Technical support team
+- Egypt office opening
+
+### 2011-2010
+- Hardware upgrades
+- 300+ client milestone
+
+### 2009-2008
+- Company founding by Ardian Mula
+- First EPOS client
+- Web-based ordering system
+
+## Customer Support & Services
+
+### Support Channels
+- 24/7 technical support
+- Live chat system
+- Email support
+- Phone support (Talk2Success)
+- Multi-language support
+
+### Training & Onboarding
+- Comprehensive training programs
+- Dedicated account managers
+- Implementation support
+- Ongoing optimization
+
+### Maintenance & Updates
+- Regular software updates
+- Hardware maintenance
+- Performance monitoring
+- Feature enhancements
+
+## Pricing & Business Model
+
+### Restaurant Partners
+- Commission-based marketplace fees
+- Transparent pricing structure
+- No hidden costs
+- Volume discounts available
+
+### Technology Solutions
+- Flexible pricing plans
+- Hardware leasing options
+- Software licensing
+- Custom integration pricing
+
+### Support Services
+- Tiered support packages
+- Priority support options
+- Custom training programs
+- Dedicated account management
+
+## Competitive Advantages
+
+### Technology Leadership
+- Proprietary Fusion EPOS system
+- Offline operation capability
+- Real-time synchronization
+- Scalable cloud architecture
+
+### Global Presence
+- Multi-country operations
+- Local market expertise
+- 24/7 support coverage
+- Regional partnerships
+
+### Customer Focus
+- Dedicated account management
+- Custom integration support
+- Ongoing optimization
+- Long-term partnerships
+
+### Innovation
+- Continuous product development
+- AI and automation integration
+- Mobile-first solutions
+- Future-ready technology
+
+## Future Roadmap
+
+### Technology Evolution
+- AI-powered analytics
+- Advanced automation
+- IoT integration
+- Blockchain applications
+
+### Market Expansion
+- New geographic markets
+- Vertical market penetration
+- Strategic partnerships
+- Acquisition opportunities
+
+### Product Development
+- Enhanced mobile experiences
+- Advanced analytics platform
+- Integrated marketing tools
+- Next-generation hardware
+
+## Contact Information
+
+### Business Inquiries
+- Website: https://foodhubforbusiness.com
+- Global operations across 9 countries
+- 1,200+ staff worldwide
+- 30,000+ restaurant partners
+
+### Support
+- 24/7 technical support
+- Multi-language assistance
+- Dedicated account managers
+- Comprehensive training programs
+
+---
+
+*This database contains comprehensive information about FoodHub's products, services, technology, global operations, and business model. It serves as the complete context for AI-powered customer service and sales interactions.*

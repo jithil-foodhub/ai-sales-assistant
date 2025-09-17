@@ -1,0 +1,41 @@
+{
+  "name": "ai-sales-assistant",
+  "version": "1.0.0",
+  "description": "AI Sales Assistant with real-time Twilio integration",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd apps/backend && npm run dev",
+    "dev:frontend": "cd apps/frontend && npm run dev",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "cd apps/backend && npm run build",
+    "build:frontend": "cd apps/frontend && npm run build",
+    "seed": "node scripts/seed_offers.js",
+    "simulate": "node scripts/simulate_call.js",
+    "test-customer": "node scripts/test_customer_flow.js",
+    "test-service": "node scripts/test_customer_service.js",
+    "test-foodhub": "node scripts/test_foodhub_agent.js",
+    "init-vector-store": "node scripts/init-vector-store.js",
+    "vectorize-foodhub": "node scripts/vectorize-foodhub.js",
+    "test-rag": "node scripts/test-rag.js",
+    "test-ai": "node scripts/test_ai_foodhub.js",
+    "test-dashboard": "node scripts/test_customer_dashboard.js",
+    "test-classic": "node scripts/test_classic_ui.js",
+    "test-twilio": "node scripts/test_twilio_webhook.js",
+    "test-live-transcript": "node scripts/test_live_transcript.js",
+    "test-real-transcription": "node scripts/test_real_transcription.js",
+    "test-transcript-storage": "node scripts/test_transcript_storage.js",
+    "validate": "node scripts/validate_setup.js",
+    "test": "npm run test:backend",
+    "test:backend": "cd apps/backend && npm test"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}

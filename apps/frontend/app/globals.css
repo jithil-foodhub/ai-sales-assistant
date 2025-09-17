@@ -1,0 +1,205 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure full height layout */
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Prevent scrollbars on the main container */
+.h-screen {
+  height: 100vh;
+  height: 100dvh; /* Dynamic viewport height for mobile */
+}
+
+@layer base {
+  html {
+    font-family: system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-4 py-2 rounded-lg font-medium transition-colors duration-200;
+  }
+  
+  .btn-primary {
+    @apply bg-primary-600 text-white hover:bg-primary-700;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-800 hover:bg-gray-300;
+  }
+  
+  .btn-success {
+    @apply bg-green-600 text-white hover:bg-green-700;
+  }
+  
+  .btn-danger {
+    @apply bg-red-600 text-white hover:bg-red-700;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200 p-6;
+  }
+  
+  .suggestion-card {
+    @apply border-l-4 p-4 rounded-r-lg;
+  }
+  
+  .suggestion-upsell {
+    @apply border-l-primary-500 bg-primary-50;
+  }
+  
+  .suggestion-cross-sell {
+    @apply border-l-green-500 bg-green-50;
+  }
+  
+  .suggestion-retention {
+    @apply border-l-yellow-500 bg-yellow-50;
+  }
+  
+  .suggestion-new-offer {
+    @apply border-l-purple-500 bg-purple-50;
+  }
+  
+  .suggestion-food-recommendation {
+    @apply border-l-orange-500 bg-orange-50;
+  }
+  
+  .suggestion-promotion {
+    @apply border-l-pink-500 bg-pink-50;
+  }
+  
+  .suggestion-cuisine-suggestion {
+    @apply border-l-green-500 bg-green-50;
+  }
+  
+  .suggestion-empathetic {
+    @apply border-l-pink-500 bg-pink-50;
+  }
+  
+  .suggestion-solution-focused {
+    @apply border-l-blue-500 bg-blue-50;
+  }
+  
+  .suggestion-defensive {
+    @apply border-l-red-500 bg-red-50;
+  }
+  
+  .suggestion-consultative {
+    @apply border-l-indigo-500 bg-indigo-50;
+  }
+  
+  .suggestion-product-recommendation {
+    @apply border-l-purple-500 bg-purple-50;
+  }
+  
+  .suggestion-solution-consultation {
+    @apply border-l-teal-500 bg-teal-50;
+  }
+  
+  .suggestion-business-growth {
+    @apply border-l-emerald-500 bg-emerald-50;
+  }
+  
+  .suggestion-technical-support {
+    @apply border-l-amber-500 bg-amber-50;
+  }
+  
+  .suggestion-pricing-inquiry {
+    @apply border-l-rose-500 bg-rose-50;
+  }
+  
+  /* Enhanced Client Page Animations */
+  .client-card {
+    animation: slideInUp 0.6s ease-out forwards;
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  
+  .client-card:hover .client-avatar {
+    transform: scale(1.05) rotate(2deg);
+  }
+  
+  .stats-card {
+    animation: fadeInScale 0.5s ease-out forwards;
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  
+  .search-bar {
+    animation: slideInDown 0.4s ease-out;
+  }
+  
+  .header-title {
+    animation: fadeInLeft 0.8s ease-out;
+  }
+  
+  .add-client-btn {
+    animation: fadeInRight 0.8s ease-out;
+  }
+  
+  /* Staggered animations */
+  .client-card:nth-child(1) { animation-delay: 0.1s; }
+  .client-card:nth-child(2) { animation-delay: 0.2s; }
+  .client-card:nth-child(3) { animation-delay: 0.3s; }
+  .client-card:nth-child(4) { animation-delay: 0.4s; }
+  .client-card:nth-child(5) { animation-delay: 0.5s; }
+  .client-card:nth-child(6) { animation-delay: 0.6s; }
+  
+  .stats-card:nth-child(1) { animation-delay: 0.1s; }
+  .stats-card:nth-child(2) { animation-delay: 0.2s; }
+  .stats-card:nth-child(3) { animation-delay: 0.3s; }
+  .stats-card:nth-child(4) { animation-delay: 0.4s; }
+}
+
+@keyframes slideInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInScale {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

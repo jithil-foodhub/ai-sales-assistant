@@ -1,0 +1,168 @@
+FoodHub Website Template - AI Context Database
+
+## Template Structure
+
+### HTML Template Components
+The FoodHub website template is a responsive, modern food delivery website with the following key sections:
+
+#### 1. Header Section
+- Logo: "FoodHub" with orange branding (#fc8019)
+- Navigation: Home, Cuisines, Offers, About, Contact
+- Search bar in hero section
+- Mobile-responsive hamburger menu
+
+#### 2. Hero Section
+- Background image with overlay
+- Main headline: {{HERO_TITLE}} (personalized)
+- Subheading: {{HERO_SUBTITLE}} (personalized)
+- Call-to-action buttons: "Order Now", "Browse Menu"
+- Search functionality
+
+#### 3. Featured Cuisines Section
+- Grid layout with cuisine cards
+- Each card includes: icon, cuisine name, description
+- Cuisines: Italian, Chinese, Mexican, Japanese, Indian, Thai, etc.
+- Personalized based on client preferences
+
+#### 4. Popular Dishes Section
+- Dish cards with images, names, descriptions, prices
+- Dynamic pricing based on client's budget range
+- Dish categories: Pasta, Pizza, Sushi, Curry, Tacos, Ramen, Burger, Salad, Soup, Stir Fry
+
+#### 5. Special Offers Section
+- Offer cards with icons and descriptions
+- Personalized offers based on client preferences
+- Discount percentages and promotional text
+
+#### 6. Restaurant Highlights Section
+- Feature cards highlighting restaurant benefits
+- Icons: ⭐ (ratings), 🚀 (fast delivery), ❤️ (quality), 🏆 (awards), 🛡️ (safety), ⚡ (speed)
+- Descriptions: "Top-rated restaurants", "Lightning-fast delivery", "Fresh ingredients"
+
+#### 7. Call-to-Action Section
+- Primary CTA: "Order Now" button
+- Secondary CTA: "Browse Menu" button
+- Personalized based on client behavior
+
+#### 8. Footer Section
+- Company information
+- Quick links
+- Contact details
+- Social media links
+
+## CSS Styling
+
+### Color Scheme
+- Primary: #fc8019 (orange)
+- Primary Dark: #d65a00
+- Secondary: #ffffff (white)
+- Background: #f5f5f5 (light gray)
+- Text: #282c3f (dark gray)
+- Muted: #686b78 (medium gray)
+
+### Typography
+- Primary Font: Inter (400, 500, 600, 700)
+- Secondary Font: Roboto (400, 500, 700)
+- Font Awesome icons for visual elements
+
+### Layout
+- Responsive grid system
+- Mobile-first design
+- Container max-width: 1200px
+- Card-based design with shadows and borders
+- Smooth animations and transitions
+
+## Personalization Variables
+
+### Client-Specific Content
+- {{HERO_TITLE}}: Personalized main headline
+- {{HERO_SUBTITLE}}: Personalized subheading
+- {{FEATURED_CUISINES}}: Array of preferred cuisines
+- {{RECOMMENDED_DISHES}}: Array of recommended dishes
+- {{SPECIAL_OFFERS}}: Array of personalized offers
+- {{RESTAURANT_HIGHLIGHTS}}: Array of restaurant features
+- {{CALL_TO_ACTION}}: Personalized CTA text
+
+### Dynamic Content Generation
+- Cuisine cards based on client preferences
+- Dish recommendations with appropriate pricing
+- Special offers tailored to client's budget and preferences
+- Restaurant highlights matching client's dining style
+
+## Template Features
+
+### Responsive Design
+- Mobile: Single column layout
+- Tablet: 2-column grid
+- Desktop: 3-4 column grid
+- Flexible image sizing
+- Touch-friendly buttons
+
+### Interactive Elements
+- Hover effects on cards
+- Smooth scrolling navigation
+- Search functionality
+- Order buttons with animations
+- Mobile menu toggle
+
+### Performance Optimizations
+- Optimized images
+- CSS minification
+- Fast loading fonts
+- Efficient animations
+- Cached resources
+
+## Modification Guidelines
+
+### Safe Modification Areas
+1. **Content Updates**: Text, headlines, descriptions
+2. **Styling Adjustments**: Colors, fonts, spacing
+3. **Layout Changes**: Grid columns, card arrangements
+4. **Feature Additions**: New sections, interactive elements
+5. **Personalization**: Enhanced client-specific content
+
+### Template Structure Preservation
+- Maintain HTML semantic structure
+- Keep CSS class names consistent
+- Preserve responsive breakpoints
+- Maintain accessibility features
+- Keep JavaScript functionality intact
+
+### AI Modification Instructions
+When modifying the website template:
+1. Analyze the client's specific request
+2. Identify relevant template sections to modify
+3. Maintain the overall design consistency
+4. Ensure responsive design is preserved
+5. Update personalized content appropriately
+6. Test for visual and functional integrity
+
+## Common Modifications
+
+### Content Updates
+- Update hero section text
+- Modify cuisine recommendations
+- Change dish suggestions
+- Update special offers
+- Adjust call-to-action text
+
+### Visual Changes
+- Color scheme adjustments
+- Font style changes
+- Layout modifications
+- Image updates
+- Icon replacements
+
+### Feature Additions
+- New sections
+- Additional interactive elements
+- Enhanced search functionality
+- Social media integration
+- Customer reviews section
+
+### Personalization Enhancements
+- More specific recommendations
+- Location-based content
+- Time-sensitive offers
+- Seasonal adjustments
+- Behavioral targeting
